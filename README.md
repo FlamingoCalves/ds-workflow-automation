@@ -1,4 +1,4 @@
-# Data Science Workflow Automation Script
+# Data Science Workflow Automation Script (Visual Studio Code)
 
 This Python script streamlines the setup process for new data science projects. It automates the creation of a new project directory, file creation within that directory, setting up a Python virtual environment, and installing initial packages. It also provides the commands to activate the virtual environment and open the project in Visual Studio Code.
 
